@@ -9,10 +9,10 @@ Outputs from various iQCC simulations are also posted here, where additional fil
 
 File index: All Hamiltonians are in right to left format
 
-H_1.inp - Electronic Hamiltonian
-N_1.inp - Number operator
-Npenalty_1.inp - Number penalty operator
-S2_1.inp - Spin operator
-Spenalty_1.inp - Spin penalty operator
-Sz_1.inp - Sz operator
-reference_state.inp - file containing information about the Hamiltonian generation including coefficient cutoffs and the initial occupation reference vector
+- H_1.inp - Electronic Hamiltonian
+- N_1.inp - Number operator
+- Npenalty_1.inp - Number penalty operator
+- S2_1.inp - Spin operator
+- Spenalty_1.inp - Spin penalty operator
+- Sz_1.inp - Sz operator
+- reference_state.inp - file containing information about the Hamiltonian generation including coefficient cutoffs and the initial occupation reference vector
