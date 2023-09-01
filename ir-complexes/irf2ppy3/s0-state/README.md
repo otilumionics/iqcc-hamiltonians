@@ -1,5 +1,7 @@
-Singlet state hamiltonian of Ir(F2ppy)3 using the T1 optimized geometry
+Hamiltonian and iQCC summary for Ir(F2ppy)3 using the T1 optimized Geometry
 
-Basis set:
+Hamiltonian is for CAS(40,40) generated from the ROHF orbitals as descibed here: https://doi.org/10.1002/anie.202116175
+
+Basis set info:
 Ir - lanl2dz ecp
-All other atoms: 6-31G*
+All other atoms - 6-31G*
