@@ -1,4 +1,7 @@
 # iqcc-hamiltonians
+[![DOI](https://zenodo.org/badge/657659129.svg)](https://zenodo.org/doi/10.5281/zenodo.10961200)
+
+
 Hamiltonians generated using the iterative Qubit Coupled Cluster (iQCC) method for use in quantum chemistry simulations.
 
 
