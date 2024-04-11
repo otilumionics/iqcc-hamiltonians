@@ -16,3 +16,15 @@ File index: All Hamiltonians are in right to left format
 - Spenalty_1.inp - Spin penalty operator
 - Sz_1.inp - Sz operator
 - reference_state.inp - file containing information about the Hamiltonian generation including coefficient cutoffs and the initial occupation reference vector
+
+# iqcc output files
+
+Output files are occasionally updated when new publications are made available. Simulation outputs can varry depending on the inputs to the iQCC algorithm and this information is contained either within the outputfile or within the Readme file. 
+
+Output files follow a format that shows the "QMF" state for the iQCC iteration Hamiltonian, followed by the PT and DUC energy corrections, then followed by the list of the entanglers used for the iQCC iteration listed with their importance factor, then finally an array of the optimized amplitudes. 
+
+# citation
+When using any information from this repository the following publication must be cited as it describes the process in which the entanglers were generated:
+https://doi.org/10.1021/acs.jctc.8b00932
+
+Additional publications to cite will be noted in the sub-directories
