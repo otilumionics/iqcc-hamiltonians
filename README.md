@@ -25,6 +25,7 @@ Output files follow a format that shows the "QMF" state for the iQCC iteration H
 
 # citation
 When using any information from this repository the following publication must be cited as it describes the process in which the entanglers were generated:
-https://doi.org/10.1021/acs.jctc.8b00932
+https://doi.org/10.1021/acs.jctc.8b00932 
+https://doi.org/10.1021/acs.jctc.9b01084
 
 Additional publications to cite will be noted in the sub-directories
